@@ -1,2 +1,2 @@
-# slasherss.github.io
+# slash3rss.github.io
 GitHub Pages
